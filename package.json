@@ -1,0 +1,16 @@
+{
+  "name": "clinica-fonovida",
+  "version": "1.0.0",
+  "description": "Landing page para Clínica de Fonoaudiologia FonoVida",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fonoaudiologia",
+    "landing-page",
+    "clinica"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
